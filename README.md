@@ -1,5 +1,5 @@
 # Blog App with Google Gemini API
-
+Live Link : http://ec2-34-235-155-17.compute-1.amazonaws.com:3000/
 This project uses the Google Gemini API to generate summaries from text. It provides a service that accepts a text prompt, sends it to the API, and returns the generated text response.
 
 ## Table of Contents
